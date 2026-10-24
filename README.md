@@ -1,8 +1,8 @@
 ## Luanti-Logic-Lab
-#Luanti Logic Lab assignment: 4-bit adder and 1-to-4 demultiplexer
+# Luanti Logic Lab assignment: 4-bit adder and 1-to-4 demultiplexer
 
 
-#For my attempt at the 4-bit adder:
+# For my attempt at the 4-bit adder:
 
 Because of time constraints and frustration with not being able to understand what I am supposed to do, I was only able to make a full-bit adder along with a duplicate of it.
 
@@ -11,7 +11,7 @@ This is because of the different gates being XOR, AND, and OR showing which ligh
 
 See the related screenshots for visual representation.
 
-#For my attempt at the 1-to-4 demultiplexer:
+# For my attempt at the 1-to-4 demultiplexer:
 
 I made progress to the second level, making it a 1-to-2 demultiplexer.
 This was a little easier for me to do compared to the previous 4 bit adder.
